@@ -1,0 +1,8 @@
+name: AcoHibernate
+description: Hibernates the server when there are no players online. ZzzzZzzz
+version: @version@
+main: net.yasfu.acohibernate.AcoHibernatePlugin
+api-version: @api-version@
+load: POSTWORLD
+author: LittleBigBug
+website: yasfu.net
